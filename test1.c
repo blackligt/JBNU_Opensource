@@ -11,5 +11,7 @@ int main()
 
     printf("%d\n",a*a*a);
 
+    printf("%d\n", b*b*b);
+
     return 0;
 }
